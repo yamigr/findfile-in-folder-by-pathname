@@ -1,0 +1,15 @@
+{
+    "name": "findfile-in-folder-by-pathname",
+    "version": "0.0.1",
+    "description": "Find a file in a folder by the pathname.",
+    "main": "lib/index.js",
+    "homepage": "https://github.com/yamigr/findfile-in-folder-by-pathname#readme",
+    "keywords": [
+      "pusudb",
+      "fs"
+    ],
+    "author": "yannick grund, https://github.com/yamigr",
+    "license": "MIT",
+    "dependencies": {}
+  }
+  

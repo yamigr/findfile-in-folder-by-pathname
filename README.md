@@ -14,7 +14,7 @@ npm install findfile-in-folder-by-pathname --save
 ```js
 var findfile = require('findfile-in-folder-by-pathname')
 
-findfile.byPathname(__dirname, '/some/path/to/mfile', { normalize : true } function(data){
+findfile.byPathname(__dirname, '/some/path/to/mfile', { normalize : true , index : 'index.html' } function(data){
     if(data){
         //handle the data
     }
